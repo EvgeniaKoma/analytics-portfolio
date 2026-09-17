@@ -19,8 +19,3 @@
 
 - [Презентация — PowerPoint](presentation.pptx).
 - [Код и сохранённые результаты — Jupyter Notebook](analysis.ipynb).
-- [Открыть исходный ноутбук в Google Colab](https://colab.research.google.com/drive/13y72kQx5xf6a7oQ8u_krG7-8ZUcGJedF).
-
-Код опубликован без изменений, с сохранёнными результатами исходного запуска. Для выполнения потребуются CSV из [папки данных кейса](https://drive.google.com/drive/folders/1wF9kPjPiF88oKlr3kQyeghzToGhYGzaJ): `action_hist.csv`, `payments_hist.csv`, `Action.csv`, `Experiments.csv`, `Payment.csv`. Файлы нужно разместить в рабочей папке ноутбука.
-
-Текст README подготовлен на основе [авторского описания проекта](https://docs.google.com/document/d/1SCM4TzKiKLZ5Qb58eIjRmCLO2FBCmMRnXxkzR2cGEc8/edit).
