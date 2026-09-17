@@ -17,5 +17,6 @@
 
 ## Материалы проекта
 
-- [Презентация — PowerPoint](presentation.pptx).
+- [Презентация — PDF](presentation.pdf).
 - [Код и сохранённые результаты — Jupyter Notebook](analysis.ipynb).
+
