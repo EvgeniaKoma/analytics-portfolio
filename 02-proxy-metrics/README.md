@@ -20,8 +20,4 @@
 
 - [Код и результаты анализа](analysis.ipynb)
 - [Презентация в PDF](presentation.pdf)
-- [Открыть исходный ноутбук в Google Colab](https://colab.research.google.com/drive/1urx16fKgFaanSxvCkDITNeDnRZ1pkUIb)
 
-Ноутбук содержит сохранённые результаты выполнения. Для повторного запуска потребуется исходный учебный датасет `lesson_002_data.csv`, который не включён в репозиторий. Поместите его в рабочую папку ноутбука (в Colab — загрузите файл в текущую сессию). Используются библиотеки NumPy, pandas, SciPy, scikit-learn, seaborn и Matplotlib.
-
-[К обзору портфолио](../README.md)
