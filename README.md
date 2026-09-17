@@ -8,3 +8,4 @@
 |---|---|---|
 | [01. Снижение цены подписки](01-subscription-pricing-ab-test/) | Аудит эксперимента и оценка выручки: компенсирует ли рост конверсии снижение цены подписки? | [Ноутбук](01-subscription-pricing-ab-test/analysis.ipynb) · [Презентация](01-subscription-pricing-ab-test/presentation.pdf) |
 | [02. Выбор прокси-метрик](02-proxy-metrics/) | Корреляционный анализ и выбор кандидатов на ранний сигнал продления подписки. | [Ноутбук](02-proxy-metrics/analysis.ipynb) · [Презентация](02-proxy-metrics/presentation.pdf) |
+| [03. Симуляции A/A и A/B тестов](03-simulations/) | Проверка сплитования, распределений p-value и мощности статистических критериев. | [Ноутбук](03-simulations/analysis.ipynb) · [Результаты](03-simulations/#результаты) |
